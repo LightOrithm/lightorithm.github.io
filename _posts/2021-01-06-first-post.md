@@ -21,7 +21,10 @@ Here's a useless table:
 | XSS | 1 | 05/01/2021 |
 | SQL | 1 | 05/01/2021 |
 | CSRF | 1 | 05/01/2021 |
-| SSRF | 0 | 05/01/2021 |
+| SSRF | 0 |  |
+| Open Redirect | 1 | 05/01/2021 |
+| Application | 1 | 05/01/2021 |
+| XXE | 0 |  |
 
 
 How about a yummy crepe?
