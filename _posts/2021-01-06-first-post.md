@@ -2,6 +2,7 @@
 layout: post
 title: BugBounty
 subtitle: Follow My Journey
+thumbnail-img: /assets/img/bugbounty.png
 gh-repo: lightorithm/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [bugbounty]
@@ -27,7 +28,7 @@ Here's a useless table:
 | XXE | 0 |  |
 
 
-![BugBounty](/assets/img/bugbounty.jpg)
+![BugBounty](/assets/img/bugbounty.png)
 
 
 Here's a code chunk:
