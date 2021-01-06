@@ -28,7 +28,7 @@ Here's a useless table:
 | XXE | 0 |  |
 
 
-![BugBounty](https://github.com/LightOrithm/lightorithm.github.io/blob/master/assets/img/2021-01-06%2012_38_23-Learn%20about%20web%20application%20vulnerabilities%20and%20how%20to%20find%20them%20on%20bug%20bounty%20p.png)
+![BugBounty](/assets/img/bugbounty.jpg)
 
 
 Here's a code chunk:
