@@ -17,7 +17,10 @@ navbar-links:
  # About Me: "aboutme"
   Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - BugBounty: "https://bugbountyhunter.com/"
+    - THM Profile: "https://tryhackme.com/p/LightOrithm"
+    - Chaos: "https://chaos.projectdiscovery.io/#/"
+    - CRT Search: "https://crt.sh/"
 #  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
