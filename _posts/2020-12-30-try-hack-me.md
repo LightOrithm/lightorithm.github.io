@@ -1,0 +1,33 @@
+---
+layout: post
+title: whoami  
+subtitle: My Hacking journey from the very beginning to now
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [hacking]
+---
+
+I've always had an interest in computers and how they work since a young age, I was always seen as the kid who taught the teachers in school or if a member of the family had a computer issue, I would be the one who was going to repair it for no charge. I was up to all hours fixing computers, installing new graphics cards, hard drives and the odd power supply and then installing windows, updating windows removing malware, viruses the lot - It all fizzled out when TV Repair shops closed and services where no longer needed due to cheap insurance policies on electricals or free computers with mobile phone upgrades - In my eyes computer repairs just died and if your PC died you either got a free repair, upgrade, free software etc, so I moved into something else and discovered hacking; I say discovered - I search Yahoo! at the time.
+
+I found a tool online "When i remember the name" I will insert it into this post but it scanned a range of IP's and checked for open ports and shared directories, 20 minutes into a scan I was faced with a number of devices with Name IP PORTS DIR - I double clicked on a device and seen it was definitely not mine I was browsing but someone else - I gained access to another system with no bother what so ever, so I clicked my way through peoples devices slowly due to dial up, opening someones Documents took a good 90 seconds but it worked and i had unauthorized access. 
+
+I used this app for a year or so in non malicious ways but to browse other peoples systems and yes I seen images 18+ and a lot of polish systems "a lot", after a while I decided it best to inform these people that their system was compromised and left them a.txt file on their desktop saying PLEASE READ! I'm not sure if they ever did read the file as I never went back to see if I could connect again. 
+
+I then found Sub7 (Do not use it) I know there are some conflicts around who created the programme but regardless of that, it was a good app for the script kiddie I was. Sub7 for those that do not know was a very powerful "and still is believed to be in operation today" application in which you entered someones IP address and you had access this was achieved either by sending them a.exe or even a.jpg online - I spoken to people on MSN Messenger for a while "Social Engineering" and talked about favourite animals, the best city to live in, where they liked to visit - These are all password hints by the way, and people gave away all this information with no question. 
+
+Once i gained their trust I would then send them a new game update (.exe) some of you maybe reading this now saying "Same old trick" but it worked and unfortunately people accepted this.exe and jpg - Opening either would create a backdoor for Sub7 and there you go (access gained) I used Sub7 for a while and then GONE! 
+
+I had no internet, blueyonder at the time had sent my parents an email informing them they detected unusual activity on our IP and that Internet Access to the property would be temporarily frozen for a short period of time. Luckily I found the email, read and deleted it and just blamed poor internet on the company. 
+
+After I played around with programs and realised gaining access to peoples devices was easy with a pre written programme I decided to learn how to programme but I never did pick it up or continue with it instead I took a back step away from hacking and instead decided to attack my school/college. 
+
+I read online about a small virus that would incapacitate a school network and if you wanted to you could recreate it - I did and it worked, Monday morning all computers in the school had the blue screen of death and the IT tech was not best please, However - they realised it was me and called me into the office for a chat and threatened me with legal action for ruining council property, I never did admit it and there was nothing they could do without any evidence whatsoever, no file was ever found and nothing was ever traced back to me.
+
+Fast FWD to today and some 15 years later I have decided to pick up Hacking and start from the very beginning, I have found TryHackMe! and BugBountyHunter are two platforms I am focusing on gaining the knowledge I need not for a professional stance but it gives me something to do in the evenings and I enjoy learning how to gain access into other devices not by malicious means but unauthorized means in a approved manner - I think thats worded correctly. 
+
+Anyway - Probably a big read but I just wanted to write a little 'whoami' and what I have done to get to this point - Basically use a VPN, dont download Hacking Apps and learn in a safe environment first before using any knowledge gained on the outside. I will continue to blog about rooms on TryHackMe and Update on my Bug Hunting journey as I go along. 
+
+Please add me on Twitter or as a friend on TryHackMe and if you have any questions or want to get involved then send me a message. 
+
+C'ya -
