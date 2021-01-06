@@ -1,27 +1,27 @@
 ---
 layout: post
-title: First Post
-subtitle: Each post also has a subtitle
+title: BugBounty
+subtitle: Follow My Journey
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [bugbounty]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+So, i managed to get a little github.io page - You will find everything to do with BugBounty and Ethical hacking Im currently on a couple of platforms for both and will update as I go along. Main BugBounty testing platform is BARKER! hosted my Bugbounty.com and run by @Zseano. 
 
-**Here is some bold text**
+**BugBounty.com**
 
-## Here is a secondary heading
+I have recently started BugBounty 2021 and very luckily got access to @Zseano platform BARKER! in which you can experiment on a live platform and hunt bugs whilst going through Seano's Methodology too. 
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
+| Bugs | Found | Date |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| XSS | 1 | 05/01/2021 |
+| SQL | 1 | 05/01/2021 |
+| CSRF | 1 | 05/01/2021 |
+| SSRF | 0 | 05/01/2021 |
 
 
 How about a yummy crepe?
