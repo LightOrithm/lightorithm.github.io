@@ -2,7 +2,7 @@
 layout: post
 title: BugBounty
 subtitle: Follow My Journey
-gh-repo: daattali/beautiful-jekyll
+gh-repo: lightorithm/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [bugbounty]
 comments: true
