@@ -3,7 +3,7 @@ layout: post
 title: BugBounty
 subtitle: Follow My Journey
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/bugbounty.png
+thumbnail-img: /assets/img/bug.jpg
 gh-repo: lightorithm/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [bugbounty]
