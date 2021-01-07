@@ -22,6 +22,7 @@ Example of XSS are;
 <script>javascript:alert(1)</script\x0A
 ~~~
 **What is XSS Scripting (XSS)?**
+
 Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted web sites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it. ~ Taken from github
 
 An attacker can use XSS to send a malicious script to an unsuspecting user. The end user’s browser has no way to know that the script should not be trusted, and will execute the script.
@@ -37,6 +38,7 @@ Example of SQL are;
 ~~~
 
 **What is SQL injection (SQLi)?**
+
 SQL injection is a web security vulnerability that allows an attacker to interfere with the queries that an application makes to its database. It generally allows an attacker to view data that they are not normally able to retrieve. This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or delete this data, causing persistent changes to the application's content or behavior. ~ Taken from github
 
 **So, What's Next**
