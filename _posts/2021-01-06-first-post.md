@@ -20,13 +20,14 @@ Here's a useless table:
 
 | Bugs | Found | Date |
 | :------ |:--- | :--- |
-| XSS | 1 | 05/01/2021 |
+| XSS | 6 | 05/01/2021 |
 | SQL | 1 | 05/01/2021 |
 | CSRF | 1 | 05/01/2021 |
 | SSRF | 0 |  |
 | Open Redirect | 1 | 05/01/2021 |
 | Application | 1 | 05/01/2021 |
 | XXE | 0 |  |
+| IDOR | 1 | 07/01/2021 |
 
 
 ![BugBounty](/assets/img/bugbounty.png)
