@@ -10,13 +10,25 @@ tags: [bugbounty]
 comments: true
 ---
 
-So, i managed to get a little github.io page - You will find everything to do with BugBounty and Ethical hacking Im currently on a couple of platforms for both and will update as I go along. Main BugBounty testing platform is BARKER! hosted my Bugbounty.com and run by @Zseano. 
+I have entered the world of Bug Hunting and I'm a convert - I've got no prior experience other than messing around online with a little HTML but not in a malicious or bug hunting way. I have been given he oppurtinuty to carry out training on @Zseano's plaform Bugbountyhunter.com and use Barker! which is a mock social media platform riddled with bugs from XSS to XXE's and more. 
 
-**BugBounty.com**
+@Zseano gives you access to his methedology which admitantly at first I was reading and had no clue what I was reading, instead i decided to take each bug on one by one and work my way through his methodoloty rather than loading my brain with too much info. I know there is plenty more to be covered inside his book but it's best to start of on the small stuff and work up, by small stuff I mean XSS and SQL ~ If i can find them after a day then you can! 
 
-I have recently started BugBounty 2021 and very luckily got access to @Zseano platform BARKER! in which you can experiment on a live platform and hunt bugs whilst going through Seano's Methodology too. 
+Example of XSS are; 
 
-Here's a useless table:
+~~~
+<script\x0Atype="text/javascript">javascript:alert(1);</script>
+<image src=1 href=1 onerror="javascript:alert(1)"></image>
+<script>javascript:alert(1)</script\x0A
+~~~
+
+**What's Next**
+
+I am going to continue with @Zseano's methodology and practicing on Barker! there are around 70+ bugs to be found and at writing this I have found 11, I will then register on another platform such at YesWeHack! or HackerOne and continue with my Hacking on Tryhackme.com (Add me as a friend on THM LlightOrithm)
+
+There's plenty to do and keep me busy, You can keep tabs on how many bug I have found below - I update this as I go along. 
+
+Bugs Found:
 
 | Bugs | Found | Date |
 | :------ |:--- | :--- |
@@ -32,33 +44,6 @@ Here's a useless table:
 
 ![BugBounty](/assets/img/bugbounty.png)
 
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
 ## Boxes
 You can add notification, warning and error boxes like this:
