@@ -11,6 +11,8 @@ tags: [hacking, csrf, bugbounty]
 I've been using Barker! Which is a platform on Bugbountyhunter.com for over a week since writing this, I was worried at first thinking I was way outta my depth and I wouldn't have 
 a clue what I was looking for but as previously mentioned I have @Zseano's methodology and it has been working, I also have access to his Discord server where, if stuck of you are struggling with a bug, you can find help in there - I've not seen anyone directly say (Do this) which is great because we don't want complete walkthrough's else your just copying someone else's work. Im not shy of a walkthrough, I do use then and especially in the early days - trying to decode what on earth was on my screen was terrible but I've since been able to complete certain tasks on my own and without the need for a walkthrough. 
 
+![CSRF POC Generator](/assets/img/csrf_gen.gif)
+
 My first CSRF - Cross Site Request Forgery, pretty pleased with myself when I found this and it was also the day I realized how powerful Burp Suite was, If you don't know what Burp suite is here's a paragraph below. 
 
 "Burp or Burp Suite is a set of tools used for penetration testing of web applications. It is developed by the company named Portswigger, which is also the alias of its founder Dafydd Stuttard. BurpSuite aims to be an all in one set of tools and its capabilities can be enhanced by installing add-ons that are called BApps.
